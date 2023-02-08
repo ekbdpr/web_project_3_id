@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Inter";
+  src: url(/fonts/Inter-Regular.woff) format("woff"),
+    url(/fonts/Inter-Regular.woff2) format("woff2");
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+img,
+nav,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  font-weight: normal;
+  font-family: "Inter", sans-serif;
+}
