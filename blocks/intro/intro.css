@@ -1,16 +1,17 @@
-.header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.intro {
+  margin-top: 92px;
   padding: 0 148px;
+  color: #fff;
 }
 @media screen and (max-width: 1024px) {
-  .header {
+  .intro {
+    margin-top: 88px;
     padding: 0 24px;
   }
 }
 @media screen and (max-width: 600px) {
-  .header {
+  .intro {
+    margin-top: 64px;
     padding: 0 16px;
   }
 }

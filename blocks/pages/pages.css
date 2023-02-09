@@ -1,15 +1,4 @@
 .pages {
   max-width: 100vw;
-  padding: 0 148px;
   background: #2a2c2f;
-}
-@media screen and (max-width: 1024px) {
-  .pages {
-    padding: 0 24px;
-  }
-}
-@media screen and (max-width: 600px) {
-  .pages {
-    padding: 0 16px;
-  }
 }

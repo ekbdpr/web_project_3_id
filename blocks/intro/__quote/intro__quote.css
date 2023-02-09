@@ -1,0 +1,14 @@
+.intro__quote {
+  max-width: 758px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  font-size: 24px;
+  line-height: 1.42;
+}
+@media screen and (max-width: 600px) {
+  .intro__quote {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+}

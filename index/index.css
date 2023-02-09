@@ -10,3 +10,10 @@
 @import url(/blocks/lead/lead.css);
 @import url(/blocks/lead/__title/lead__title.css);
 @import url(/blocks/lead/__subtitle/lead__subtitle.css);
+
+/* intro */
+@import url(/blocks/intro/intro.css);
+@import url(/blocks/intro/__title/intro__title.css);
+@import url(/blocks/intro/__quote/intro__quote.css);
+@import url(/blocks/intro/__quote-author/intro__quote-author.css);
+@import url(/blocks/intro/__text/intro__text.css);
