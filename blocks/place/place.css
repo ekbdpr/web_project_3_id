@@ -1,0 +1,30 @@
+.place {
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-areas:
+    "title website"
+    "image paragraph"
+    "image paragraph"
+    "button paragraph"
+    ". paragraph";
+  column-gap: 40px;
+}
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-template-columns: 340px 1fr;
+    column-gap: 28px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraph"
+      "button";
+    column-gap: normal;
+  }
+}

@@ -1,0 +1,17 @@
+.place__paragraph {
+  grid-area: paragraph;
+  margin-top: 26px;
+  align-self: flex-start;
+  font-size: 16.5px;
+  line-height: 1.63;
+  color: #fff;
+}
+.place__paragraph-span::before {
+  content: "\a\a";
+  white-space: pre;
+}
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+    font-size: 15px;
+  }
+}

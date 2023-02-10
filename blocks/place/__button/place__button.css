@@ -1,0 +1,26 @@
+.place__button {
+  grid-area: button;
+  grid-row-start: 4;
+  background-color: #0278fe;
+  border: none;
+  border-radius: 4px;
+  min-width: 304px;
+  min-height: 48px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration: none;
+  text-align: center;
+  color: #fff;
+  transition: background-color 0.2s linear;
+}
+.place__button:hover {
+  background-color: #0063d2;
+  cursor: pointer;
+}
+@media screen and (max-width: 600px) {
+  .place__button {
+    grid-row-start: auto;
+    min-width: 288px;
+  }
+}
