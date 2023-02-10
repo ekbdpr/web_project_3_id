@@ -2,15 +2,4 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 148px;
-}
-@media screen and (max-width: 1024px) {
-  .header {
-    padding: 0 24px;
-  }
-}
-@media screen and (max-width: 600px) {
-  .header {
-    padding: 0 16px;
-  }
 }

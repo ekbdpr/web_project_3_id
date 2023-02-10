@@ -34,3 +34,11 @@
 @import url(/blocks/place/__paragraph/place__paragraph.css);
 @import url(/blocks/place/__link/place__link.css);
 @import url(/blocks/place/__button/place__button.css);
+
+/* footer section */
+@import url(/blocks/footer/footer.css);
+@import url(/blocks/footer/__image/footer__image.css);
+@import url(/blocks/footer/__text-container/footer__text-containter.css);
+@import url(/blocks/footer/__title/footer__title.css);
+@import url(/blocks/footer/__subtitle/footer__subtitle.css);
+@import url(/blocks/footer/__button/footer__button.css);

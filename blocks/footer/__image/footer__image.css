@@ -1,0 +1,11 @@
+.footer__image {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  width: 100%;
+  opacity: 0.8;
+  transition: opacity 0.2s linear;
+}
+.footer__image:hover {
+  opacity: 0.3;
+  cursor: url(/images/black-cursor.png), auto;
+}
