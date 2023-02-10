@@ -23,7 +23,11 @@ Untuk membuat Website ini responsive pada layar 1280, 760 dan 320 piksel, saya m
 - 1024 piksel
 - 600 piksel
 
-Saya juga berusaha menggunakan unit ukuran yang mendukung Website Responsive tetapi mungkin ada beberapa bagian yang saya harus memasukkan **_Hardcode_**
+Saya juga berusaha menggunakan unit ukuran yang mendukung Website Responsive tetapi mungkin ada beberapa bagian yang saya harus memasukkan **_Hardcode_**.
+
+Here is the result :
+
+[Practicum Art Gallery - Oleh Eka Budhi Prasetya](https://ekhabla.github.io/web_project_3_id/)
 
 Terima kasih sudah melihat Website saya !
 
