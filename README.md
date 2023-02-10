@@ -8,14 +8,25 @@
 
 **Pengantar**
 
-Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer. Kami sarankan untuk meluangkan lebih banyak waktu dalam menyelesaikan proyek ini, karena ini lebih sulit daripada proyek yang sebelumnya.
+Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer.
 
 **Figma**
 
 - [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
 
-**Gambar**
+**Features**
 
-Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
+Saya menggunakan berbagai macam cara untuk membuat Website ini menjadi responsif. Sungguh ini adalah tantangan yang sangat besar ! Tetapi setelah berhasil menyelesaikan Website ini saya merasa sangat bangga. Good Job me !
 
-Semoga berhasil dan bersenang-senanglah!
+Untuk membuat Website ini responsive pada layar 1280, 760 dan 320 piksel, saya menggunakan media query di 2 breakpoint yaitu pada :
+
+- 1024 piksel
+- 600 piksel
+
+Saya juga berusaha menggunakan unit ukuran yang mendukung Website Responsive tetapi mungkin ada beberapa bagian yang saya harus memasukkan **_Hardcode_**
+
+Terima kasih sudah melihat Website saya !
+
+Cheers,
+
+Eka Budhi Prasetya (Future Full-stack Software Engineer)
