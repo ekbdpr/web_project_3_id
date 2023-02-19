@@ -27,7 +27,7 @@ Saya juga berusaha menggunakan unit ukuran yang mendukung Website Responsive tet
 
 Here is the result :
 
-[Practicum Art Gallery - Oleh Eka Budhi Prasetya](https://ekhabla.github.io/web_project_3_id/)
+[Practicum Art Gallery - Oleh Eka Budhi Prasetya](https://ekbdpr.github.io/web_project_3_id/)
 
 Terima kasih sudah melihat Website saya !
 
